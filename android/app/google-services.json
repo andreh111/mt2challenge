@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414023932022",
+    "firebase_url": "https://mt2challenge-80e2c.firebaseio.com",
+    "project_id": "mt2challenge-80e2c",
+    "storage_bucket": "mt2challenge-80e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414023932022:android:cb77e7fd2d05fbdcfc2757",
+        "android_client_info": {
+          "package_name": "com.mt2challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414023932022-kjhfvnn0fvnfssoc0k9re9knukgjfa1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8UEca8W3CGhJptV1TQRbnEf0uWFLt5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414023932022-kjhfvnn0fvnfssoc0k9re9knukgjfa1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
